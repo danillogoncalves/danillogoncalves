@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F0F6FC&lines=Ol%C3%A1%2C+eu+sou+o+Daniilo%2C;Bem-vindo+ao+no+meu+GitHub!" />
 </div>
 
-<div>
-  <div>
-  </div>
+<div style="display: flex; flex-wrap: wrap">
   <div>
     <h2>Sobre mim</h2>
     <ul>
@@ -14,11 +12,14 @@
       <li>🔭 Desenvolvedor full stack;</li>
     </ul>
   </div>
+  <div>
+    <img width="400rem"src="./images/octocat-danillo.png" />
+  </div>
 </div>
 
 ##
 
-<div>
+<div style="display: flex; flex-wrap: wrap">
   <a href="https://github.com/danillogoncalves"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danillogoncalves&show_icons=true&theme=dark"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danillogoncalves&layout=compact&theme=dark"/>
@@ -39,7 +40,7 @@
 
 ##
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/danillo-gon%C3%A7alves-batista/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
   <a href="mailto:danillogoncalves001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://wa.link/ummnsk"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>

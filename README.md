@@ -20,24 +20,23 @@
 ##
 
 <div style="display: flex; flex-wrap: wrap">
-  <a href="https://github.com/danillogoncalves"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danillogoncalves&show_icons=true&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danillogoncalves&layout=compact&theme=dark"/>
+  <a href="https://github.com/danillogoncalves"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=danillogoncalves&show_icons=true&theme=dark" /></a>
+  <a href="https://github.com/danillogoncalves"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danillogoncalves&layout=compact&theme=dark" /></a>
 </div>
 
 ##
 
 <div><br/>
-  <img alt="Danillo-Git" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Danillo-HTML" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="Danillo-CSS" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="Danillo-JS" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Danillo-React" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Danillo-Redux" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img alt="Danillo-Jest" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img alt="Danillo-Node.js" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Danillo-Mocha" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-  <img alt="Danillo-MySQL" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <a href="https://github.com/danillogoncalves"><img alt="Danillo-Git" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+  <a href="https://github.com/danillogoncalves"><img alt="Danillo-HTML" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
+  <a href="https://github.com/danillogoncalves"><img alt="Danillo-CSS" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+  <a href="https://github.com/danillogoncalves"><img alt="Danillo-JS" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+  <a href="https://github.com/danillogoncalves"><img alt="Danillo-React" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  <a href="https://github.com/danillogoncalves"><img alt="Danillo-Redux" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /></a>
+  <a href="https://github.com/danillogoncalves"><img alt="Danillo-Jest" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /></a>
+  <a href="https://github.com/danillogoncalves"><img alt="Danillo-Node.js" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+  <a href="https://github.com/danillogoncalves"><img alt="Danillo-Mocha" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" /></a>
+  <a href="https://github.com/danillogoncalves"><img alt="Danillo-MySQL" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
 </div>
 
 ##

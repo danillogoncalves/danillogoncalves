@@ -37,6 +37,7 @@
   <a href="https://github.com/danillogoncalves"><img alt="Danillo-Node.js" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
   <a href="https://github.com/danillogoncalves"><img alt="Danillo-Mocha" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" /></a>
   <a href="https://github.com/danillogoncalves"><img alt="Danillo-MySQL" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+  <a href="https://github.com/danillogoncalves"><img alt="Danillo-Sequelize" height="50px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /></a>
 </div>
 
 ##

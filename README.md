@@ -1,5 +1,5 @@
 <div>
-  <img src="https://readme-typing-svg.herokuapp.com?color=F0F6FC&lines=Ol%C3%A1%2C+eu+sou+o+Danillo%2C;Bem-vindo+ao+meu+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0070F3&lines=Ol%C3%A1%2C+eu+sou+o+Danillo%2C;Bem-vindo+ao+meu+GitHub!" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap">

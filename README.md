@@ -13,7 +13,7 @@
     </ul>
   </div>
   <div>
-    <img width="400rem"src="./images/octocat-danillo.png" />
+    <img width="400rem"src="./images/octocat-danillo-2026-05-16.png" />
   </div>
 </div>
 

@@ -8,7 +8,7 @@
     <ul>
       <li>✨ Apaixonado por jogos, e meu primeiro console foi o Atari;</li>
       <li>🤔 Já atuei na área textil, logística e Compras;</li>
-      <li>🌱 Atualmente estou trabalhando na <a href="https://destra.software/" target="_blank">Destra Software</a>;</li>
+      <li>🌱 Atualmente estou trabalhando na <a href="https://www.beneficiosocial.com.br/" target="_blank">Benefício Social Familiar</a>;</li>
       <li>🔭 Desenvolvedor full stack;</li>
     </ul>
   </div>
